@@ -1,0 +1,21 @@
+{
+  "short_name": "RMS POS",
+  "name": "RMS POS2",
+  "description": "تطبيق نقاط بيع (POS) محمول ومتكامل باللغة العربية، مصمم ليكون سهل الاستخدام وفعالاً.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#14b8a6",
+  "background_color": "#f8fafc"
+}
